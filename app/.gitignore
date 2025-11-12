@@ -1,14 +1,1 @@
-# Gradle
-.gradle/
-build/
-*.iml
-.idea/
-local.properties
-
-# Keystore
-*.jks
-*.keystore
-
-# Misc
-.DS_Store
-*.log
+/build
