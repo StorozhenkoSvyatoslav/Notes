@@ -1,6 +1,6 @@
 # Notes
 
-A simple application for creating and viewing notes, developed for Android.
+Application for creating and viewing notes, developed for Android.
 
 ## Features
 
